@@ -3,6 +3,7 @@
     <router-view />
     111
     333
+    aaa
   </div>
 </template>
 
