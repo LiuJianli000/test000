@@ -9,7 +9,6 @@
     fff
     ggg
     hhh
-    dev
   </div>
 </template>
 
