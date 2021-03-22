@@ -7,6 +7,7 @@
     ddd
     eee
     fff
+    ggg
   </div>
 </template>
 
