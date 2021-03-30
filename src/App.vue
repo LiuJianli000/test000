@@ -14,6 +14,7 @@
     devdev
     gegeg
     ooooo
+    new
   </div>
 </template>
 
